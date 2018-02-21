@@ -8,7 +8,7 @@ end
 count
 end
 
-def current_player(board, count)
+def current_player(board)
   if count % 2 == 0
     "X"
   else
