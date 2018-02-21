@@ -15,5 +15,3 @@ def current_player(board, count)
     "O"
   end
 end
-  
-  
